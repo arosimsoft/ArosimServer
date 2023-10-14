@@ -1,0 +1,6 @@
+C:\Users\mikdevio\source\repos\RobotControl\RobotControlServer\bin\Release\RobotControlServer.exe.config
+C:\Users\mikdevio\source\repos\RobotControl\RobotControlServer\bin\Release\RobotControlServer.exe
+C:\Users\mikdevio\source\repos\RobotControl\RobotControlServer\bin\Release\RobotControlServer.pdb
+C:\Users\mikdevio\source\repos\RobotControl\RobotControlServer\obj\Release\RobotControlServer.csproj.CoreCompileInputs.cache
+C:\Users\mikdevio\source\repos\RobotControl\RobotControlServer\obj\Release\RobotControlServer.exe
+C:\Users\mikdevio\source\repos\RobotControl\RobotControlServer\obj\Release\RobotControlServer.pdb

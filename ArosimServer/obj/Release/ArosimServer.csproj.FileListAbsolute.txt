@@ -1,0 +1,6 @@
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\bin\Release\RobotControlServer.exe.config
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\bin\Release\RobotControlServer.exe
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\bin\Release\RobotControlServer.pdb
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\obj\Release\ArosimServer.csproj.CoreCompileInputs.cache
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\obj\Release\RobotControlServer.exe
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\obj\Release\RobotControlServer.pdb

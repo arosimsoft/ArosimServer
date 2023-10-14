@@ -1,0 +1,6 @@
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\bin\Debug\ArosimServer.exe.config
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\bin\Debug\ArosimServer.exe
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\bin\Debug\ArosimServer.pdb
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\obj\Debug\ArosimServer.csproj.CoreCompileInputs.cache
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\obj\Debug\ArosimServer.exe
+C:\Users\mikdevio\source\repos\ArosimServer\ArosimServer\obj\Debug\ArosimServer.pdb
